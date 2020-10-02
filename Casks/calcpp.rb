@@ -1,6 +1,6 @@
 cask "calcpp" do
   version "0.4"
-  sha256 "f75d95f24e019a5cde0e3d8c0ff5cad93bd07524513dca19cf8b986e6278aa7f"
+  sha256 "dadeefc6efd75a9b106fa8be5c88aa8a1a71fecc416eca7533deef32ee7a3232"
 
   url "https://github.com/antoniojkim/CalcPlusPlus/releases/download/v0.4/calcplusplus.bottle.tgz"
   appcast "https://github.com/antoniojkim/CalcPlusPlus/releases.atom"
