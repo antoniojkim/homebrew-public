@@ -1,8 +1,8 @@
 cask "calcpp" do
-  version "0.4"
-  sha256 "dadeefc6efd75a9b106fa8be5c88aa8a1a71fecc416eca7533deef32ee7a3232"
+  version "latest"
+  sha256 "c30709fd3c132000cf806841b34b80574b1f0d2bd19b99dec7ebe51e36d9c7af"
 
-  url "https://github.com/antoniojkim/CalcPlusPlus/releases/download/v0.4/calcplusplus.bottle.tgz"
+  url "https://github.com/antoniojkim/CalcPlusPlus/releases/latest/download/calcplusplus.bottle.tgz"
   appcast "https://github.com/antoniojkim/CalcPlusPlus/releases.atom"
   name "CalcPlusPlus"
   desc "Advanced Scientific Calculator. Highly performant, robust, and easy to use"
